@@ -1,0 +1,74 @@
+:root {
+  font-family: "Roboto", sans-serif;
+  --dnd-red: #e40712;
+  --dnd-lightblue: #1b9af0;
+}
+
+.container {
+  width: 1180px;
+}
+
+.background-texture {
+  position: absolute;
+  z-index: -2;
+  background-image: url("/hw1/backgrounds/background_texture.png");
+  height: 100%;
+  width: 100%;
+}
+
+.contained-button {
+  min-height: 40px;
+  border-radius: 4px;
+  color: #ffffff;
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: normal;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 0 30px;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+
+body {
+  margin: 0;
+}
+
+.contained-button-red {
+  background-color: var(--dnd-red);
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  border: none;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.hidden {
+  display: none;
+}
+
+.block {
+  display: block;
+}
+
+.flex-row {
+  display: flex;
+}
+
+.no-scroll {
+  overflow: hidden;
+}
+
+@media (max-width: 1200px) {
+  .container {
+    width: 100%;
+  }
+}

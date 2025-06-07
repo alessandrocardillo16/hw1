@@ -1,0 +1,148 @@
+{
+    "collections": [
+        {
+            "title": "My Characters",
+            "image": "https://media.dndbeyond.com/mega-menu/8894f93deeca83cdf0a6df3f36ffb52e.jpg",
+            "href": "#my-characters"
+        },
+        {
+            "title": "My Campaigns",
+            "image": "https://media.dndbeyond.com/mega-menu/8894f93deeca83cdf0a6df3f36ffb52e.jpg",
+            "href": "#my-campaigns"
+        },
+        {
+            "title": "My Encounters",
+            "image": "https://media.dndbeyond.com/mega-menu/8894f93deeca83cdf0a6df3f36ffb52e.jpg",
+            "href": "#my-encounters"
+        },
+        {
+            "title": "My Homebrew Collection",
+            "image": "https://media.dndbeyond.com/mega-menu/8894f93deeca83cdf0a6df3f36ffb52e.jpg",
+            "href": "#my-homebrew-collection"
+        },
+        {
+            "title": "My Homebrew Creation",
+            "image": "https://media.dndbeyond.com/mega-menu/8894f93deeca83cdf0a6df3f36ffb52e.jpg",
+            "href": "#my-homebrew-creation"
+        },
+        {
+            "title": "My Dice",
+            "image": "https://media.dndbeyond.com/mega-menu/8894f93deeca83cdf0a6df3f36ffb52e.jpg",
+            "href": "#my-dice"
+        }
+    ],
+    "homebrew": [
+        "Create Spell",
+        "Create Monster",
+        "Create Magic Item",
+        "Create Background",
+        "Create Feat",
+        "Create Species",
+        "Create Subclass",
+        "Browse Spells",
+        "Browse Monsters",
+        "Browse Magic Items",
+        "Browse Backgrounds",
+        "Browse Feats",
+        "Browse Species",
+        "Browse Subclasses"
+    ],
+    "gameRules": [
+        {
+            "title": "Classes",
+            "image": "https://media.dndbeyond.com/mega-menu/8894f93deeca83cdf0a6df3f36ffb52e.jpg",
+            "href": "#classes"
+        },
+        {
+            "title": "Background",
+            "image": "https://media.dndbeyond.com/mega-menu/8894f93deeca83cdf0a6df3f36ffb52e.jpg",
+            "href": "#background"
+        },
+        {
+            "title": "Species",
+            "image": "https://media.dndbeyond.com/mega-menu/8894f93deeca83cdf0a6df3f36ffb52e.jpg",
+            "href": "#species"
+        }
+    ],
+    "rulesColumn": [
+        {
+            "title": "Feats",
+            "image": "https://media.dndbeyond.com/mega-menu/8894f93deeca83cdf0a6df3f36ffb52e.jpg",
+            "href": "#feats"
+        },
+        {
+            "title": "Spells",
+            "image": "https://media.dndbeyond.com/mega-menu/8894f93deeca83cdf0a6df3f36ffb52e.jpg",
+            "href": "#spells"
+        },
+        {
+            "title": "Equipment",
+            "image": "https://media.dndbeyond.com/mega-menu/8894f93deeca83cdf0a6df3f36ffb52e.jpg",
+            "href": "#equipment"
+        },
+        {
+            "title": "Magic Items",
+            "image": "https://media.dndbeyond.com/mega-menu/8894f93deeca83cdf0a6df3f36ffb52e.jpg",
+            "href": "#magic-items"
+        },
+        {
+            "title": "Monsters",
+            "image": "https://media.dndbeyond.com/mega-menu/8894f93deeca83cdf0a6df3f36ffb52e.jpg",
+            "href": "#monsters"
+        }
+    ],
+    "tools": [
+        {
+            "title": "Character Builder",
+            "image": "https://media.dndbeyond.com/mega-menu/8894f93deeca83cdf0a6df3f36ffb52e.jpg",
+            "href": "#character-builder"
+        },
+        {
+            "title": "Maps Vtt",
+            "image": "https://media.dndbeyond.com/mega-menu/8894f93deeca83cdf0a6df3f36ffb52e.jpg",
+            "href": "#maps-vtt"
+        },
+        {
+            "title": "Mobile App",
+            "image": "https://media.dndbeyond.com/mega-menu/8894f93deeca83cdf0a6df3f36ffb52e.jpg",
+            "href": "#mobile-app"
+        },
+        {
+            "title": "Sigil 3D VTT",
+            "image": "https://media.dndbeyond.com/mega-menu/8894f93deeca83cdf0a6df3f36ffb52e.jpg",
+            "href": "#sigil-3d-vtt"
+        },
+        {
+            "title": "Encounters",
+            "image": "https://media.dndbeyond.com/mega-menu/8894f93deeca83cdf0a6df3f36ffb52e.jpg",
+            "href": "#encounters"
+        },
+        {
+            "title": "Avrae Discord Bot",
+            "image": "https://media.dndbeyond.com/mega-menu/8894f93deeca83cdf0a6df3f36ffb52e.jpg",
+            "href": "#avrae-discord-bot"
+        }
+    ],
+    "media": [
+        {
+            "title": "Community Update",
+            "image": "https://media.dndbeyond.com/mega-menu/8894f93deeca83cdf0a6df3f36ffb52e.jpg",
+            "href": "#community-update"
+        },
+        {
+            "title": "Twitch",
+            "image": "https://media.dndbeyond.com/mega-menu/8894f93deeca83cdf0a6df3f36ffb52e.jpg",
+            "href": "#twitch"
+        },
+        {
+            "title": "YouTube",
+            "image": "https://media.dndbeyond.com/mega-menu/8894f93deeca83cdf0a6df3f36ffb52e.jpg",
+            "href": "#youtube"
+        },
+        {
+            "title": "Changelog",
+            "image": "https://media.dndbeyond.com/mega-menu/8894f93deeca83cdf0a6df3f36ffb52e.jpg",
+            "href": "#changelog"
+        }
+    ]
+}
